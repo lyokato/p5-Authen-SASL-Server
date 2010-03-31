@@ -1,0 +1,6 @@
+Revision history for Perl extension Authen::SASL::Server.
+
+0.01  Wed Feb 27 11:28:30 2008
+	- original version; created by h2xs 1.23 with options
+		-XA Authen::SASL::Server
+

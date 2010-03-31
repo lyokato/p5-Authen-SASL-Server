@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Authen-SASL-Server.t
+lib/Authen/SASL/Server.pm

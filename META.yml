@@ -1,0 +1,20 @@
+abstract: SASL server pure-perl implementation
+author: Lyo Kato, C<lyo.kato _at_ gmail.com>
+build_requires: 
+  Authen::SASL: 0
+  Test::More: 0
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: perl
+name: Authen-SASL-Server
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  Class::Accessor: 0.31
+  Class::Data::Accessor: 0.04001
+  Class::ErrorHandler: 0.01
+  Digest::MD5: 2.36
+  UNIVERSAL::require: 0.01
+version: 0.01
